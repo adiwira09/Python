@@ -6,3 +6,6 @@ Kekurangan
 1. Tidak bisa auto submit karena captcha
 2. Captcha isi manual
 3. Membuka banyak Chrome untuk meng-akali agar bisa pass captcha secara manual
+
+install pip requirements
+==> pip install -r requirements.txt
