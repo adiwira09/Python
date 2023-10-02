@@ -7,5 +7,11 @@ Kekurangan
 2. Captcha isi manual
 3. Membuka banyak Chrome untuk meng-akali agar bisa pass captcha secara manual
 
-install pip requirements
-==> pip install -r requirements.txt
+# Installation Requirements
+```
+pip install -r requirements.txt
+```
+# Running Program
+```
+python main.py
+```
